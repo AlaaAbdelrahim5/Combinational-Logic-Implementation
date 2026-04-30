@@ -1,0 +1,44 @@
+VERSION 25-Oct-24 10:28:05 PM
+FIG #C:\Users\Ala'a\OneDrive\Desktop\Computer Engineering Courses\4th year\1st Semester\VLSI\VLSI HWs\VLSI - HW2\INV_hw2.MSK
+BB(-28,37,15,108)
+SIMU #5.00
+ZOOM(-73,32,-10,113)
+REC(-26,72,28,36,NW)
+REC(-11,78,7,16,DP)
+REC(-20,78,7,16,DP)
+REC(-20,40,6,6,DP)
+REC(-13,78,2,16,DP)
+REC(-20,100,6,6,DN)
+REC(-20,50,7,8,DN)
+REC(-13,50,2,8,DN)
+REC(-11,50,7,8,DN)
+REC(-18,85,2,2,CO)
+REC(-8,90,2,2,CO)
+REC(-18,80,2,2,CO)
+REC(-8,80,2,2,CO)
+REC(-18,90,2,2,CO)
+REC(-18,102,2,2,CO)
+REC(-18,42,2,2,CO)
+REC(-16,67,2,2,CO)
+REC(-8,85,2,2,CO)
+REC(-18,52,2,2,CO)
+REC(-8,52,2,2,CO)
+REC(-17,66,4,4,PO)
+REC(-13,37,2,60,PO)
+REC(-20,46,6,12,ME)
+REC(-23,66,10,4,ME)
+REC(-10,70,22,5,ME)
+REC(-20,78,6,22,ME)
+REC(-28,40,42,6,ME)
+REC(-10,50,6,20,ME)
+REC(-28,100,43,6,ME)
+REC(-10,75,6,19,ME)
+TITLE 11 42  #Vss
+$0 1000 0 
+TITLE 13 104  #Vdd
+$1 1000 0 
+TITLE 8 72  #out
+$v 1000 0 
+TITLE -21 68  #clock1
+$c 1000 0 0.2250 0.2500 0.4750 0.5000 
+FFIG C:\Users\Ala'a\OneDrive\Desktop\Computer Engineering Courses\4th year\1st Semester\VLSI\VLSI HWs\VLSI - HW2\INV_hw2.MSK
